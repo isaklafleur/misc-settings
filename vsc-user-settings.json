@@ -1,0 +1,34 @@
+{
+  "workbench.startupEditor": "newUntitledFile",
+  "workbench.iconTheme": "vscode-icons",
+  "git.enableSmartCommit": true,
+  "files.encoding": "utf8",
+  "vsicons.dontShowNewVersionMessage": true,
+  "eslint.autoFixOnSave": true,
+  "editor.formatOnSave": true,
+  "window.zoomLevel": 0,
+  "workbench.colorTheme": "One Dark Pro Vivid",
+  "vsicons.projectDetection.autoReload": true,
+  "editor.minimap.enabled": false,
+  "editor.tabSize": 2,
+  "editor.insertSpaces": true,
+  "beautify.language": {
+    "js": {
+      "type": [
+        "json"
+      ],
+      "filename": [
+        ".jshintrc",
+        ".jsbeautify"
+      ]
+    },
+    "css": [
+      "css",
+      "scss"
+    ],
+    "html": [
+      "htm",
+      "html"
+    ]
+  }
+}
